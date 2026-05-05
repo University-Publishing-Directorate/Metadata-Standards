@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <language>ara</language>
+        <publisher>University of Mohamed Boudiaf - M'sila</publisher>
+        <journalTitle>Journal of Social Sciences and Humanities</journalTitle>
+        <issn>1112-9255</issn>
+        <eissn>2588-2120</eissn>
+        <publicationDate>2026-05-05</publicationDate>
+        <volume>15</volume>
+        <issue>1</issue>
+        <startPage>1</startPage>
+        <endPage>15</endPage>
+        <doi>10.58205/jossh.v15i1.1</doi>
+        <publisherRecordId>JOSSH_2026_01</publisherRecordId>
+        <documentType>article</documentType>
+        <title language="ara">عنوان المقال باللغة العربية هنا</title>
+        <title language="eng">Article Title in English Here</title>
+        <authors>
+            <author>
+                <name>اسم المؤلف الأول</name>
+                <affiliationId>1</affiliationId>
+            </author>
+        </authors>
+        <affiliationsList>
+            <affiliationName affiliationId="1">University of Mohamed Boudiaf - M'sila, Algeria</affiliationName>
+        </affiliationsList>
+        <abstract language="ara">ملخص البحث باللغة العربية يتم وضعه هنا بدقة لضمان الفهرسة الصحيحة.</abstract>
+        <abstract language="eng">The English abstract of the research goes here for global visibility.</abstract>
+        <fullTextUrl format="pdf">https://depot.univ-msila.dz/example-article.pdf</fullTextUrl>
+        <keywords language="ara">
+            <keyword>الكلمة المفتاحية 1</keyword>
+            <keyword>الكلمة المفتاحية 2</keyword>
+        </keywords>
+        <keywords language="eng">
+            <keyword>Keyword 1</keyword>
+            <keyword>Keyword 2</keyword>
+        </keywords>
+    </record>
+</records>
