@@ -1,0 +1,45 @@
+/* 
+   Custom CSS for JOSSH Journal - University of M'sila
+   Color Theme: Royal Blue & Professional Grey
+*/
+
+/* 1. تخصيص لون شريط التنقل (Navigation Bar) */
+.pkp_structure_head {
+    background-color: #002366 !important; /* Royal Blue */
+    border-bottom: 3px solid #C0C0C0; /* Silver Border */
+}
+
+/* 2. تحسين مظهر أزرار التحميل (PDF Buttons) */
+.obj_galley_link.pdf {
+    background-color: #002366 !important;
+    color: #ffffff !important;
+    border-radius: 5px;
+    padding: 8px 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.obj_galley_link.pdf:hover {
+    background-color: #0041C2 !important; /* Lighter Blue on Hover */
+}
+
+/* 3. تعديل خطوط العناوين لتكون أكثر وضوحاً */
+h1, h2, h3, h4 {
+    color: #002366;
+    font-family: 'Droid Arabic Naskh', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* 4. تحسين مظهر الصيدبار (Sidebar Panels) */
+.pkp_structure_sidebar .panel {
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* 5. إبراز رخصة المشاع الإبداعي في أسفل الصفحة */
+.footer_content {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
